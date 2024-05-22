@@ -22,8 +22,8 @@ body{
 }
 
 #imagen-principal{
-    width: 1000px;
-    height: 600px;
+    width: 60%;
+    height:600px;
     border-radius: 5px;
 }
 
@@ -32,7 +32,8 @@ body{
 }
 
 .text{
-    margin-left: 550px;
+    margin-left: 30%;
+    margin-right: 20%;
     font: 500 18px Arial, sans-serif;
     line-height: 1.5;
     text-align: justify;
@@ -46,7 +47,7 @@ body{
 
 #subtitle{
     text-align: left;
-    margin-left: 550px;
+    margin-left: 30%;
 }
 
 #link-snap{
@@ -58,8 +59,8 @@ body{
 #image-snap{
     margin-top: 50px;
     margin-bottom: 200px;
-    width: 1000px;
-    height: 600px;
+    width: 60%;
+    height:600px;
     border-radius: 5px;
 }
 
