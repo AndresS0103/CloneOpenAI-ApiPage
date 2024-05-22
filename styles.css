@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    color: #fff;
+}
+#titulos{
+    margin-top: 100px;
+}
+
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+}
+
+#texto-abajo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-bottom: 100px;
+}
+
+#imagen-principal{
+    width: 1000px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+#image{
+    margin-bottom: 100px;
+}
+
+.text{
+    margin-left: 550px;
+    font: 500 18px Arial, sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+    
+    
+}
+
+#text-2{
+    margin-top: 150px;
+}
+
+#subtitle{
+    text-align: left;
+    margin-left: 550px;
+}
+
+#link-snap{
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+}
+
+#image-snap{
+    margin-top: 50px;
+    margin-bottom: 200px;
+    width: 1000px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: stretch; /* Asegura que todas las columnas tengan la misma altura */
+    padding: 20px;
+    background-color: #000;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 150px;
+    max-width: 200px; /* Limita el ancho máximo de cada columna */
+    margin: 10px;
+    font-size: 0.9em; /* Reduce el tamaño del texto */
+}
+
+.footer-column h3 {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 5px;
+}
+
+.footer-column ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    text-decoration: none;
+}
+
+footer h3{
+    opacity: 0.5;
+}
+
+.additional-section {
+    text-align: center;
+    padding: 10px 0;
+    color: #ccc; 
+    font-size: 0.8em; 
+}
+
+.additional-section a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.additional-section a:hover {
+    color: cornflowerblue;
+}
+
